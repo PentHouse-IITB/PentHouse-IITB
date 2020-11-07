@@ -97,7 +97,7 @@
   font-weight: bold;
 }
 .profile-card-1 .img {
-  height: 130px;
+  height: 100%;
   width: 100%;
   background-image: linear-gradient(
       rgba(46, 204, 113, 0.4),

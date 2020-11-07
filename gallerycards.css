@@ -172,7 +172,49 @@ input[type="radio"]#radio5:checked ~ .controls #label5 {
   background-color: white;
 }
 input[type="radio"]#radio5:checked ~ .slides {
-  margin-left: -400%;
+  margin-left: 0%;
+}
+input[type="radio"]#radio6:checked ~ .controls #label6 {
+  background-color: white;
+}
+input[type="radio"]#radio6:checked ~ .slides {
+  margin-left: -100%;
+}
+input[type="radio"]#radio7:checked ~ .controls #label7 {
+  background-color: white;
+}
+input[type="radio"]#radio7:checked ~ .slides {
+  margin-left: -200%;
+}
+input[type="radio"]#radio8:checked ~ .controls #label8 {
+  background-color: white;
+}
+input[type="radio"]#radio8:checked ~ .slides {
+  margin-left: -300%;
+}
+input[type="radio"]#radio9:checked ~ .controls #label9 {
+  background-color: white;
+}
+input[type="radio"]#radio9:checked ~ .slides {
+  margin-left: 0%;
+}
+input[type="radio"]#radio10:checked ~ .controls #label10 {
+  background-color: white;
+}
+input[type="radio"]#radio10:checked ~ .slides {
+  margin-left: -100%;
+}
+input[type="radio"]#radio11:checked ~ .controls #label11 {
+  background-color: white;
+}
+input[type="radio"]#radio11:checked ~ .slides {
+  margin-left: -200%;
+}
+input[type="radio"]#radio12:checked ~ .controls #label12 {
+  background-color: white;
+}
+input[type="radio"]#radio12:checked ~ .slides {
+  margin-left: -300%;
 }
 
 .controls {
